@@ -312,4 +312,28 @@ html {
     transition: 0.3s ease-in-out;
     background-color: #d2691e; /* Change color slightly */
   }
-  
+  footer {
+    background-color: #0303ee;
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+}
+
+.footer-content {
+    max-width: 1200px;
+    margin: auto;
+}
+
+.footer-content p {
+    margin: 5px 0;
+}
+
+.social-icons a {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.social-icons img {
+    width: 24px; /* Adjust size as needed */
+    height: auto;
+}
